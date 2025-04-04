@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-03-04T21:48:50.296-0300</date>
+  <logger>ANA LIVIA COSTA CELESTINO SANTOS</logger>
+  <level>FINE</level>
+  <message>File 123110323-ANA LIVIA COSTA CELESTINO SANTOS.zip was received. It was sent by ANA LIVIA COSTA CELESTINO SANTOS from IP 192.168.1.71 at 04-03-2025 21*48*50</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-03-06T11:09:20.821-0300</date>
+  <logger>ANA LIVIA COSTA CELESTINO SANTOS</logger>
+  <level>FINE</level>
+  <message>File 123110323-ANA LIVIA COSTA CELESTINO SANTOS.zip was received. It was sent by ANA LIVIA COSTA CELESTINO SANTOS from IP 150.165.74.82 at 06-03-2025 11*09*20</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-03-06T20:29:31.024-0300</date>
+  <logger>ANA LIVIA COSTA CELESTINO SANTOS</logger>
+  <level>FINE</level>
+  <message>File 123110323-ANA LIVIA COSTA CELESTINO SANTOS.zip was received. It was sent by ANA LIVIA COSTA CELESTINO SANTOS from IP 192.168.1.71 at 06-03-2025 20*29*30</message>
+</record>
